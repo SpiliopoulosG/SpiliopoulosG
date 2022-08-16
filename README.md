@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&color=F7A32C&lines=My+name+is+George+Spiliopoulos)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=18&color=38C0F7&lines=I+am+a+Jr.+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=18&color=38C0F7&lines=I+am+a+DevOps+Engineer)](https://git.io/typing-svg)
 - 🔭 I’m currently working on **Python and AWS Projects**
 
 - 🌱 I’m currently learning **Python and DevOps Tools**
